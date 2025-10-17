@@ -10,7 +10,7 @@ def validate_password(password: str) -> bool:
 
     TODO: Implement logic to check all these conditions and return True if valid, otherwise False.
     """
-    return False
+    return True
 
 
 # Question 2
